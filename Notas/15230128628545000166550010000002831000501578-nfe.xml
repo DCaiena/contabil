@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nfeProc versao="4.00" xmlns="http://www.portalfiscal.inf.br/nfe">
+    <NFe xmlns="http://www.portalfiscal.inf.br/nfe">
+        <infNFe versao="4.00" Id="NFe15230128628545000166550010000002831000501578">
+            <ide>
+                <cUF>15</cUF>
+                <cNF>00050157</cNF>
+                <natOp>5102-Vendas de mercadorias adquiridas e/ou recebidas de</natOp>
+                <mod>55</mod>
+                <serie>1</serie>
+                <nNF>283</nNF>
+                <dhEmi>2023-01-20T13:03:37-03:00</dhEmi>
+                <dhSaiEnt>2023-01-20T13:13:37-03:00</dhSaiEnt>
+                <tpNF>1</tpNF>
+                <idDest>1</idDest>
+                <cMunFG>1501402</cMunFG>
+                <tpImp>1</tpImp>
+                <tpEmis>1</tpEmis>
+                <cDV>8</cDV>
+                <tpAmb>1</tpAmb>
+                <finNFe>1</finNFe>
+                <indFinal>1</indFinal>
+                <indPres>1</indPres>
+                <procEmi>0</procEmi>
+                <verProc>2.0.0.201</verProc>
+            </ide>
+            <emit>
+                <CNPJ>28628545000166</CNPJ>
+                <xNome>N C COMERCIO DE GAS &amp; BEBIDAS LTDA ME</xNome>
+                <xFant>BELEM GAS</xFant>
+                <enderEmit>
+                    <xLgr>PASSAGEM MARINHO</xLgr>
+                    <nro>80A</nro>
+                    <xBairro>SACRAMENTA</xBairro>
+                    <cMun>1501402</cMun>
+                    <xMun>BELEM</xMun>
+                    <UF>PA</UF>
+                    <CEP>66083495</CEP>
+                    <cPais>1058</cPais>
+                    <xPais>BRASIL</xPais>
+                    <fone>32448429</fone>
+                </enderEmit>
+                <IE>155772562</IE>
+                <CRT>3</CRT>
+            </emit>
+            <dest>
+                <CNPJ>21917642000120</CNPJ>
+                <xNome>BUFFET PERALTAS LTDA</xNome>
+                <enderDest>
+                    <xLgr>Travessa Dom Romualdo Coelho</xLgr>
+                    <nro>520</nro>
+                    <xBairro>Umarizal</xBairro>
+                    <cMun>1501402</cMun>
+                    <xMun>Belem</xMun>
+                    <UF>PA</UF>
+                    <CEP>66055190</CEP>
+                    <cPais>1058</cPais>
+                    <xPais>BRASIL</xPais>
+                    <fone>32491682</fone>
+                </enderDest>
+                <indIEDest>1</indIEDest>
+                <IE>154775070</IE>
+            </dest>
+            <det nItem="2">
+                <prod>
+                    <cProd>2</cProd>
+                    <cEAN>SEM GTIN</cEAN>
+                    <xProd>GLP EM BOTIJAO DE 45KG</xProd>
+                    <NCM>27101910</NCM>
+                    <CFOP>5656</CFOP>
+                    <uCom>KG</uCom>
+                    <qCom>1.0000</qCom>
+                    <vUnCom>390.0000000000</vUnCom>
+                    <vProd>390.00</vProd>
+                    <cEANTrib>SEM GTIN</cEANTrib>
+                    <uTrib>KG</uTrib>
+                    <qTrib>1.0000</qTrib>
+                    <vUnTrib>390.0000000000</vUnTrib>
+                    <indTot>1</indTot>
+                    <comb>
+                        <cProdANP>210203002</cProdANP>
+                        <descANP>GLP FORA DE ESPECIFICACAO</descANP>
+                        <UFCons>PA</UFCons>
+                    </comb>
+                </prod>
+                <imposto>
+                    <ICMS>
+                        <ICMS40>
+                            <orig>0</orig>
+                            <CST>41</CST>
+                        </ICMS40>
+                    </ICMS>
+                    <IPI>
+                        <cEnq>999</cEnq>
+                        <IPITrib>
+                            <CST>99</CST>
+                            <vBC>0.00</vBC>
+                            <pIPI>0.0000</pIPI>
+                            <vIPI>0.00</vIPI>
+                        </IPITrib>
+                    </IPI>
+                    <PIS>
+                        <PISAliq>
+                            <CST>01</CST>
+                            <vBC>0.00</vBC>
+                            <pPIS>0.0000</pPIS>
+                            <vPIS>0.00</vPIS>
+                        </PISAliq>
+                    </PIS>
+                    <COFINS>
+                        <COFINSAliq>
+                            <CST>01</CST>
+                            <vBC>0.00</vBC>
+                            <pCOFINS>0.0000</pCOFINS>
+                            <vCOFINS>0.00</vCOFINS>
+                        </COFINSAliq>
+                    </COFINS>
+                </imposto>
+            </det>
+            <total>
+                <ICMSTot>
+                    <vBC>0.00</vBC>
+                    <vICMS>0.00</vICMS>
+                    <vICMSDeson>0.00</vICMSDeson>
+                    <vFCP>0.00</vFCP>
+                    <vBCST>0.00</vBCST>
+                    <vST>0.00</vST>
+                    <vFCPST>0.00</vFCPST>
+                    <vFCPSTRet>0.00</vFCPSTRet>
+                    <vProd>390.00</vProd>
+                    <vFrete>0.00</vFrete>
+                    <vSeg>0.00</vSeg>
+                    <vDesc>0.00</vDesc>
+                    <vII>0.00</vII>
+                    <vIPI>0.00</vIPI>
+                    <vIPIDevol>0.00</vIPIDevol>
+                    <vPIS>0.00</vPIS>
+                    <vCOFINS>0.00</vCOFINS>
+                    <vOutro>0.00</vOutro>
+                    <vNF>390.00</vNF>
+                </ICMSTot>
+            </total>
+            <transp>
+                <modFrete>9</modFrete>
+                <vol>
+                    <qVol>1</qVol>
+                    <esp>GLP EM BOTIJAO DE 45 KG</esp>
+                    <marca>SUPERGASBRAS</marca>
+                    <pesoL>45.000</pesoL>
+                    <pesoB>90.000</pesoB>
+                </vol>
+            </transp>
+            <cobr>
+                <fat>
+                    <nFat>283</nFat>
+                    <vOrig>390.00</vOrig>
+                    <vLiq>390.00</vLiq>
+                </fat>
+                <dup>
+                    <nDup>001</nDup>
+                    <dVenc>2023-01-20</dVenc>
+                    <vDup>390.00</vDup>
+                </dup>
+            </cobr>
+            <pag>
+                <detPag>
+                    <tPag>01</tPag>
+                    <vPag>390.00</vPag>
+                </detPag>
+            </pag>
+        </infNFe>
+        <Signature xmlns="http://www.w3.org/2000/09/xmldsig#">
+            <SignedInfo>
+                <CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"></CanonicalizationMethod>
+                <SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"></SignatureMethod>
+                <Reference URI="#NFe15230128628545000166550010000002831000501578">
+                    <Transforms>
+                        <Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"></Transform>
+                        <Transform Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"></Transform>
+                    </Transforms>
+                    <DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></DigestMethod>
+                    <DigestValue>FwiTO50j7fz4SVdo/5sJhc50+qU=</DigestValue>
+                </Reference>
+            </SignedInfo>
+            <SignatureValue>
+                F2x+M7jhOj758WR2eEtD1HuoS9xpY2iNt2LoTWiqtF6FbrFr0x+Yt2AAZGSvRNRiLIScVfR8Nx8xUFzN6NbdCRRDqhRpAynNGRVVq1Y7jrFrpArOCGCCvueBbMBjWK/8mlOTOuKLVI491tqI7mNkRn/BLpWLxkURhybDCg3YnSCHMke7IA9jI9sl1ntD8GNev/iwQjTTr6XBfVSuWIWT3fiWy2wIMpMISriov8xXz/J3AP88IQgt48PQjM0O29gjYqdb1c1FtcMLtgXIStS1RB1gQHemppLM1cogVMmRy1SVreauBoKvNktr3hXIk6+TLn8VTLlYxw5wcDe9hIddSw==</SignatureValue>
+            <KeyInfo>
+                <X509Data>
+                    <X509Certificate>
+                        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</X509Certificate>
+                </X509Data>
+            </KeyInfo>
+        </Signature>
+    </NFe>
+    <protNFe versao="4.00">
+        <infProt>
+            <tpAmb>1</tpAmb>
+            <verAplic>SVRS202301190912</verAplic>
+            <chNFe>15230128628545000166550010000002831000501578</chNFe>
+            <dhRecbto>2023-01-20T13:13:39-03:00</dhRecbto>
+            <nProt>315230002723930</nProt>
+            <digVal>FwiTO50j7fz4SVdo/5sJhc50+qU=</digVal>
+            <cStat>100</cStat>
+            <xMotivo>Autorizado o uso da NF-e</xMotivo>
+        </infProt>
+    </protNFe>
+</nfeProc>
